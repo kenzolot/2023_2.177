@@ -93,6 +93,12 @@ h4{
     margin-right: 5%;
     object-fit: contain;
   }
+
+  .persondescription{
+    flex: 2;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
 }
 
 /* desktop */
@@ -113,14 +119,14 @@ h4{
     margin-right: 15%;
     object-fit: contain;
   }
+
+  .persondescription{
+    flex: 2;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
 }
 
-
-.persondescription{
-  flex: 2;
-  margin-left: 10%;
-  margin-right: 10%;
-}
 
 .personcontainer{
   display: flex;
